@@ -1,1 +1,2 @@
-print("this is an update for github")
+def iAmAFunction():
+    print("I am a function")
